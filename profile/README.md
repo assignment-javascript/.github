@@ -1,5 +1,11 @@
 # 👋 가계부 웹 과제
 
+# 깃허브 링크
+
+백엔드 : https://github.com/assignment-javascript/backend
+
+프론트엔드 : https://github.com/assignment-javascript/frontend
+
 # 사용 기술
 - mySQL
 - express
@@ -12,6 +18,7 @@
 `/` : 홈
 
 `/report` : 달 분석
+
 
 
 # API
