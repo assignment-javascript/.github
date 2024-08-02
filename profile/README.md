@@ -1,4 +1,18 @@
-## Hi there 👋
+## 👋 가계부 웹 과제
+
+## 사용 기술
+- mySQL
+- express
+- webpack
+- javascript
+
+## router
+
+`/` : 홈
+
+`/report` : 달 분석
+
+## API
 
 ### 수입
 
